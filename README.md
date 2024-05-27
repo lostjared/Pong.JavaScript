@@ -1,4 +1,4 @@
-# Pong.JavaScript
+# Pong Game in JavaScript
 
 ![screenshot](https://github.com/lostjared/Pong.JavaScript/blob/main/pong.jpeg)
 
